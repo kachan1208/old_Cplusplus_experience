@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="new.png">images/new.png</file>
+        <file alias="save.png">images/save.png</file>
+        <file alias="open.png">images/open.png</file>
+        <file alias="play.png">images/play.png</file>
+        <file alias="pause.png">images/pause.png</file>
+    </qresource>
+</RCC>
